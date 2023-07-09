@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2e7"
+  },
+  "name": "BRAVIA",
+  "description": "This Sony BRAVIA TV brings you the excitement of movies and games in vividly detailed HDR. It handles a variety of HDR formats, including HDR10 and Hybrid Log-Gamma.",
+  "price": "19.99",
+  "image": "sony.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2d2"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2e8"
+  },
+  "name": "Shop Mart Black Faux Leather Jacket For Men",
+  "description": "Shop Mart is a manufacturer for quality leather products in reasonable prices which fulfill the demands for all the customer basis.",
+  "price": "29.99",
+  "image": "a063560e3d20befec8fe68adec05d015.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2d3"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2e9"
+  },
+  "name": "Cast Iron Skillet Pan Frying Pans",
+  "description": "Our cast iron skillets have a smooth finish to help provide even heat distribution for improved cooking and frying.",
+  "price": "9.99",
+  "image": "3902996f1c317eca282c21b7e1b49030.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2d4"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2ea"
+  },
+  "name": "Hair Volume Shampoo",
+  "description": "FOR ALL HAIR TYPES260 grams Benefits Usage Ingredients Videos Reviews What can this product do for you.",
+  "price": "14.99",
+  "image": "Hairvolumeshampoo.webp",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2d5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2eb"
+  },
+  "name": "Python Basics Book - Real Python",
+  "description": "Best Python Book for Students.",
+  "price": "39.99",
+  "image": "python-basics-book.webp",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2d6"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2ec"
+  },
+  "name": "Volleyball",
+  "description": "Best Volleyball for sports.",
+  "price": "49.99",
+  "image": "bf4f262802917f87c320585d91c1c18b.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2d7"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2ed"
+  },
+  "name": "L-ARGININE",
+  "description": "Nutrifactor's L-Arginine is a dietary supplement containing L-Arginine which is a conditionally essential amino acid.",
+  "price": "24.99",
+  "image": "SpecialOfferMockupsMainUpFile_1024x1024.webp",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2d8"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2ee"
+  },
+  "name": "BABY KIT",
+  "description": "Baby Liquid SoapMy-Mimi Moisturizing Baby Liquid Soap gently cleanses, nourishes, and moisturizes the delicate skin of newborns and toddlers.",
+  "price": "14.99",
+  "image": "baby-gift-set-kit.webp",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2d9"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2ef"
+  },
+  "name": "Mobil",
+  "description": "Best Oil for Engines.",
+  "price": "29.99",
+  "image": "mobil-1-proudcts-1200-x-630.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2da"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f0"
+  },
+  "name": "Leatherette adjustable boss chair",
+  "description": "Best Chair for Office.",
+  "price": "199.99",
+  "image": "fotor_2023-1-13_19_33_3_1000x1000.webp",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2db"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f1"
+  },
+  "name": "Golden Alloy Chain",
+  "description": "Best Chain for women.",
+  "price": "79.99",
+  "image": "c19312af4de066d6ae7dda23c1.webp",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2dc"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f2"
+  },
+  "name": "Toys for children",
+  "description": "A complete set of toys for children.",
+  "price": "19.99",
+  "image": "toyes.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2dd"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f3"
+  },
+  "name": "Dogs Food",
+  "description": "Food for Dogs to nourish.",
+  "price": "9.99",
+  "image": "home4_png-3.png",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2de"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f4"
+  },
+  "name": "Phillips Screwdriver",
+  "description": "Screw driver with best grip.",
+  "price": "39.99",
+  "image": "8021098771070.webp",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2df"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f5"
+  },
+  "name": "Cooking Oil",
+  "description": "Best natural oil for cooking and health.",
+  "price": "29.99",
+  "image": "featured-oil-v2.png",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f6"
+  },
+  "name": "Metal-Pen-Holder",
+  "description": "Metal Mesh Pen Holder Size: 3.5 x 2.7inch. High Density Wire Mesh Pen Holder.",
+  "price": "9.99",
+  "image": "1668688444_Metal_Pen_Organizer_1.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2e1"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f7"
+  },
+  "name": "Acoustic Guitar",
+  "description": "Best Guitar to feel the music at heart.",
+  "price": "14.99",
+  "image": "guitar-accessories.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2e2"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f8"
+  },
+  "name": "Adjustable Dumbbell",
+  "description": "A set of dumbbells for strength training and muscle building.",
+  "price": "49.99",
+  "image": "61070-15_max.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2e3"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2f9"
+  },
+  "name": "Solar Garden Lights",
+  "description": "Decorative solar-powered lights for illuminating your garden at night.",
+  "price": "19.99",
+  "image": "solar-garden-light-250x250.webp",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2e4"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a75ba59c56b55a84d3c2fa"
+  },
+  "name": "Rolling Suitcase",
+  "description": "A durable rolling suitcase with multiple compartments for convenient travel.",
+  "price": "79.99",
+  "image": "suitcase.jpg",
+  "categoryId": {
+    "$oid": "64a74e6b9c56b55a84d3c2e5"
+  }
+}]

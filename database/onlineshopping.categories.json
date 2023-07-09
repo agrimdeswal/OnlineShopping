@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2d2"
+  },
+  "name": "Electronics"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2d3"
+  },
+  "name": "Clothing"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2d4"
+  },
+  "name": "Home & Kitchen"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2d5"
+  },
+  "name": "Beauty & Personal Care"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2d6"
+  },
+  "name": "Books"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2d7"
+  },
+  "name": "Sports & Outdoors"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2d8"
+  },
+  "name": "Health & Wellness"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2d9"
+  },
+  "name": "Baby & Kids"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2da"
+  },
+  "name": "Automotive"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2db"
+  },
+  "name": "Furniture"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2dc"
+  },
+  "name": "Jewelry"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2dd"
+  },
+  "name": "Toys & Games"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2de"
+  },
+  "name": "Pet Supplies"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2df"
+  },
+  "name": "Tools & Home Improvement"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2e0"
+  },
+  "name": "Groceries"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2e1"
+  },
+  "name": "Office Supplies"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2e2"
+  },
+  "name": "Movies & Music"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2e3"
+  },
+  "name": "Fitness & Exercise"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2e4"
+  },
+  "name": "Garden & Outdoor"
+},
+{
+  "_id": {
+    "$oid": "64a74e6b9c56b55a84d3c2e5"
+  },
+  "name": "Travel & Luggage"
+}]
